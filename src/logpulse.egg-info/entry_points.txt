@@ -1,2 +1,0 @@
-[console_scripts]
-logpulse = logpulse.cli:cli
